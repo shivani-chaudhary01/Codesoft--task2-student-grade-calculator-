@@ -40,3 +40,6 @@ Student-Grade-Calculator
 | 60% - 74%        | C     |  Fair effort! Focus to improve.     |
 | 40% - 59%        | D     |  Passed but needs more practice.    |
 | Below 40%        | F     |  Failed. Study harder next time.     |
+
+# Exampe output
+<img width="481" height="328" alt="Screenshot 2025-08-10 143530" src="https://github.com/user-attachments/assets/c69e48f6-4e0e-41d6-b841-ab1e255b366e" />
